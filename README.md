@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AHaadi29
-- 🎓AI and Data science student
-- 👀 I’m interested in "Software development", "Artificial Intelligence", "Fullstack", "Machine Learning", "Data Science"
+- 🎓Artificial Intelligence and Data science student
+- 👀 I’m interested in "Software development", "Artificial Intelligence", "Fullstack", "Machine Learning", "Data Science", "Linux".
 - 🌱 I’m currently learning "Java" & "Javascript"
 - 📫 you can contact me at abdulhaadibubere@gmail.com
 🌱 **Contributing**: I'm looking to contribute to open-source AI projects.
